@@ -14,7 +14,7 @@ public class HeapSort {
         }
     }
 
-    public static void sort(int[] array){       //time complexity is O(logn)
+    public static void sort(int[] array){       //time complexity is O(n)
         int n = array.length;
         for(int i=(n/2)-1;i>=0;i--){
             heapify(array, n, i);               //build the heap
@@ -27,7 +27,7 @@ public class HeapSort {
         }
     }
 
-    public static void heapify(int[] array, int n, int i){      //time complexity is O(n)
+    public static void heapify(int[] array, int n, int i){      //time complexity is O(logn)
         int largest = i;
         int left = 2*i + 1;
         int right = 2*i + 2;
