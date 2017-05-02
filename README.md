@@ -1,20 +1,20 @@
 # Searching And Sorting
 Different Searching and Sorting techniques in Data Structures and Algorithms.
 
-I have solved the following techniques:
+This repo includes my code implemtations to the following searching and sorting techniques in computer science.
 
 # Searching
-1. Linear Search
-2. Jump Search
-3. Binary Search
-4. Interpolation Search
+1. [Linear Search](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/LinearSearch.java)
+2. [Jump Search](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/JumpSearch.java)
+3. [Binary Search](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/BinarySearch.java)
+4. [Interpolation Search](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/InterpolationSearch.java)
 
 # Sorting
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
-4. Heap Sort
-5. Quick Sort
+1. [Bubble Sort](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/BubbleSort.java)
+2. [Selection Sort](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/SelectionSort.java)
+3. [Insertion Sort](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/InsertionSort.java)
+4. [Heap Sort](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/HeapSort.java)
+5. [Quick Sort](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/QuickSort.java)
 
 # Environment
 Programming Language: Java
