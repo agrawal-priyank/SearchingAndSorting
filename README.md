@@ -18,7 +18,7 @@ This repository includes my code implemtations to various searching and sorting 
 4. [Heap Sort](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/HeapSort.java)
 5. [Quick Sort](https://github.com/agrawal-priyank/searching-and-sorting-algorithms/blob/master/src/QuickSort.java)
 
-# Technolgoies
+# Technologies
 Java
 
 # IDE
